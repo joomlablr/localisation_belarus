@@ -1,4 +1,4 @@
-# Беларуская лакалізацыя Joomla (be-BY)
+# Беларуская лакалізацыя Joomla 6.0.1 (be-BY)
 Рэпазіторый падтрымліваецца афіцыйнай беларускай ​​суполкай Joomla.
 
 Мы радыя за вашую цікавасць і дапамогу ў лакалізацыі Joomla на родную мову. Калі вы знойдзеце памылку або ў вас з'явілася жаданне зрабіць карэкцыю, калі ласка, стварыце
@@ -8,16 +8,3 @@
 
 ## Канал беларускай Joomla ў Telegram
 :white_check_mark: [Joomla па беларуску](https://t.me/joomlaby)
- 
-## Рэсурсы рускамоўнай супольнасці
-:white_check_mark: [Портал Joomla по-русски](https://joomlaportal.ru),  
-:white_check_mark: [Форум русской поддержки Joomla](https://joomlaforum.ru),  
-:white_check_mark: [Официальный форум русской поддержки на Joomla.org](https://forum.joomla.org/viewforum.php?f=26),  
-:white_check_mark: [Официальная страница локализации](https://joomlaportal.ru/russian-joomla),  
-:white_check_mark: [Канал новостей Joomla в Telegram](https://t.me/joomlafeed),  
-:white_check_mark: [Чат Joomla по-русски в Telegram](https://t.me/joomlaru),  
-:white_check_mark: [Чат Joomla для профессионалов в Telegram](https://t.me/projoomla),  
-:white_check_mark: [Чат Joomla YOOtheme Pro в Telegram](https://t.me/yoothemepro_joomla).  
-
-## Дополнительные файлы
-:white_check_mark: [Глоссарий](https://github.com/JPathRu/localisation/blob/joomla-5/Glossary) - основные термины, используемые в переводе для единообразия терминологии.
