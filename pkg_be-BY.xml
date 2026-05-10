@@ -2,17 +2,17 @@
 <extension type="package" method="upgrade">
 	<name>Belarusian (be-BY) Language Pack</name>
 	<packagename>be-BY</packagename>
-	<version>6.0.3.1</version>
-	<creationDate>2026-01</creationDate>
+	<version>6.1.1.1</version>
+	<creationDate>2026-05</creationDate>
 	<author>Joomla Belarus Community</author>
-	<authorEmail>admin@joomla.by</authorEmail>
+	<authorEmail>joomlablr@gmail.com</authorEmail>
 	<authorUrl>www.joomla.org</authorUrl>
 	<copyright>(C) 2019 Open Source Matters, Inc.</copyright>
 	<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<url>https://github.com/joomla/joomla-cms</url>
 	<packager>Joomla Belarus Community</packager>
 	<packagerurl>www.joomla.org</packagerurl>
-	<description><![CDATA[<h3 style='font-weight: 500'>Беларуская лакалізацыя Joomla 6.0.3. Belarusian Language Pack (be-BY)</h3><div style='font-weight: 400'><p>Афіцыйная беларуская лакалізацыя, якая падтрымліваецца беларускай ​​суполкай Joomla.<br>Мы радыя за вашую цікавасць і дапамогу ў лакалізацыі Joomla на нашую родную мову. Калі вы знойдзеце памылку або ў вас з'явілася жаданне зрабіць карэкцыю перакладу, калі ласка, стварыце <a href='https://github.com/joomlablr/localisation_belarus/issues/new' target='_blank'>Issue</a> на Github.</p><ul><li><a href='https://t.me/joomlaby' target='_blank'>Чат беларускай Joomla ў Telegram</a></li></ul></div>]]></description>
+	<description><![CDATA[<h3 style='font-weight: 500'>Беларуская лакалізацыя Joomla! 6.1. Belarusian Language Pack (be-BY)</h3><div style='font-weight: 400'><p>Афіцыйная беларуская лакалізацыя, якая падтрымліваецца беларускай ​​суполкай Joomla.<br>Мы радыя за вашую цікавасць і дапамогу ў лакалізацыі Joomla на нашую родную мову. Калі вы знойдзеце памылку або ў вас з'явілася жаданне зрабіць карэкцыю перакладу, калі ласка, стварыце <a href='https://github.com/joomlablr/localisation_belarus/issues/new' target='_blank'>Issue</a> на Github.</p><ul><li><a href='https://t.me/joomlaby' target='_blank'>Чат беларускай Joomla ў Telegram</a></li></ul></div>]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
 		<folder type="language" client="site" id="be-BY">language/be-BY</folder>
