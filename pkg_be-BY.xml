@@ -12,7 +12,7 @@
 	<url>https://github.com/joomla/joomla-cms</url>
 	<packager>Joomla Belarus Community</packager>
 	<packagerurl>www.joomla.org</packagerurl>
-	<description><![CDATA[<h3 style='font-weight: 500'>Беларуская лакалізацыя Joomla 6.0.1. Belarusian Language Pack (be-BY)</h3><div style='font-weight: 400'><p>Афіцыйная беларуская лакалізацыя, якая падтрымліваецца беларускай ​​суполкай Joomla.<br>Мы радыя за вашую цікавасць і дапамогу ў лакалізацыі Joomla на нашую родную мову. Калі вы знойдзеце памылку або ў вас з'явілася жаданне зрабіць карэкцыю перакладу, калі ласка, стварыце <a href='https://github.com/joomlablr/localisation_belarus/issues/new' target='_blank'>Issue</a> на Github.</p><ul><li><a href='https://t.me/joomlaby' target='_blank'>Чат беларускай Joomla ў Telegram</a></li></ul></div>]]></description>
+	<description><![CDATA[<h3 style='font-weight: 500'>Беларуская лакалізацыя Joomla 6.0.3. Belarusian Language Pack (be-BY)</h3><div style='font-weight: 400'><p>Афіцыйная беларуская лакалізацыя, якая падтрымліваецца беларускай ​​суполкай Joomla.<br>Мы радыя за вашую цікавасць і дапамогу ў лакалізацыі Joomla на нашую родную мову. Калі вы знойдзеце памылку або ў вас з'явілася жаданне зрабіць карэкцыю перакладу, калі ласка, стварыце <a href='https://github.com/joomlablr/localisation_belarus/issues/new' target='_blank'>Issue</a> на Github.</p><ul><li><a href='https://t.me/joomlaby' target='_blank'>Чат беларускай Joomla ў Telegram</a></li></ul></div>]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
 		<folder type="language" client="site" id="be-BY">language/be-BY</folder>
