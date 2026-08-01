@@ -2,7 +2,7 @@
 <extension client="administrator" type="language" method="upgrade">
 	<name>Belarusian (be-BY)</name>
 	<tag>be-BY</tag>
-	<version>6.1.1</version>
+	<version>6.1.2</version>
 	<creationDate>2026-05</creationDate>
 	<author>Joomla Belarus Community</author>
 	<authorEmail>joomlablr@gmail.com</authorEmail>
