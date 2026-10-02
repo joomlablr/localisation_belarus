@@ -4,7 +4,7 @@
 Мы радыя за вашую цікавасць і дапамогу ў лакалізацыі Joomla на родную мову. Калі вы знойдзеце памылку або ў вас з'явілася жаданне зрабіць карэкцыю, калі ласка, стварыце
 [Issue](https://github.com/joomlablr/localisation_belarus/issues/new).
 
-Праца па лакалізацыі Joomla 5 тут [joomla-6](https://github.com/joomlablr/localisation_belarus/tree/joomla-v6)
+Праца па лакалізацыі Joomla 6 тут [joomla-6](https://github.com/joomlablr/localisation_belarus/tree/joomla-v6)
 
 Праца па лакалізацыі Joomla 5 тут [joomla-5](https://github.com/joomlablr/localisation_belarus/tree/5.x), 
 
