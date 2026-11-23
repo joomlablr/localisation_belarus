@@ -31,7 +31,7 @@ abstract class Be_BYLocalise
      *
      * @since   1.6
      */
-    public static function getPluralSuffixes($count)
+    /*public static function getPluralSuffixes($count)
     {
         switch ($count) {
             case 0:
@@ -42,5 +42,33 @@ abstract class Be_BYLocalise
         }
 
         return ['OTHER', 'MORE'];
+    }*/
+
+    public static function getPluralSuffixes($count)
+{
+    $count = abs((int) $count);
+
+    if ($count === 0) {
+        return ['0', 'MANY', 'OTHER', 'MORE'];
     }
+
+    if ($count % 10 === 1 && $count % 100 !== 11) {
+        return ['ONE', '1'];
+    }
+
+    if (
+        $count % 10 >= 2
+        && $count % 10 <= 4
+        && ($count % 100 < 12 || $count % 100 > 14)
+    ) {
+        return ['FEW', '2', 'OTHER', 'MORE'];
+    }
+
+    return ['MANY', 'OTHER', 'MORE'];
+}
+
+
+
+
+
 }
